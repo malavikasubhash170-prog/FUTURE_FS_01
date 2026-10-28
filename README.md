@@ -50,5 +50,4 @@ Submit the live website URL and public GitHub repository URL through the officia
 ## Technologies
 HTML5, CSS3, JavaScript (no build step required).
 
-##Author 
-Malavika Subhash
+
