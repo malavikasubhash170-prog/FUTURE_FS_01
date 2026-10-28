@@ -51,3 +51,11 @@ Submit the live website URL and public GitHub repository URL through the officia
 HTML5, CSS3, JavaScript (no build step required).
 
 
+## Author
+
+**Malavika Subhash**
+
+GitHub: https://github.com/malavikasubhash170-prog
+
+LinkedIn:https://www.linkedin.com/in/malavika-subhash/
+
