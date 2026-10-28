@@ -2,6 +2,12 @@
 
 A responsive personal portfolio website built with HTML, CSS and JavaScript for the Future Interns Full Stack Web Development Task 1.
 
+
+## Live Project
+
+👉 [Open the Live Project Demo](https://malavikasubhash170-prog.github.io/FUTURE_FS_01/)
+
+
 ## Features
 - About and education sections
 - Skills and project cards
