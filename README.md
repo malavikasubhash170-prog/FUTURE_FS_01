@@ -5,7 +5,7 @@ A responsive personal portfolio website built with HTML, CSS and JavaScript for 
 
 ## Live Project
 
-👉 [Open the Live Project Demo](https://malavikasubhash170-prog.github.io/FUTURE_FS_01/)
+👉 [Open the Live Project](https://malavikasubhash170-prog.github.io/FUTURE_FS_01/)
 
 
 ## Features
